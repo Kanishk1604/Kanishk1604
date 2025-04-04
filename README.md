@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Kanishk Saini
 
-<!--
-**Kanishk1604/Kanishk1604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Science graduate** with a passion for building scalable systems and web applications.  
+💻 Proficient in **Python**, **C++**, **React.js**, **JavaScript**, and **Graph Theory**.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishk-saini-/)](https://www.linkedin.com/in/kanishk-saini-/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=flat-square&logo=google-chrome&logoColor=white&link=https://personalportfolio-two-mocha.vercel.app/)](https://personalportfolio-two-mocha.vercel.app/)
+[![Gmail](https://img.shields.io/badge/Email-saini56@uwindsor.ca-red?style=flat-square&logo=gmail&logoColor=white)](mailto:saini56@uwindsor.ca)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 What I'm Working On
+- 🗣️ **AI-powered multilingual chatbot** using Twilio & Google Calendar API
+- 🔁 **Universal Code Translator** supporting Python, C++, and Java
+- 🌐 Scaling web apps with **React.js** and **Next.js**
+
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat&logo=google-cloud)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+## 🌱 Currently Learning
+- 📊 System Design for scalable services
+- ☁️ Google Cloud Platform
+- 🤖 Advanced algorithms & data structures
+
+## 📈 GitHub Stats
+![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanishk1604&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishk1604&layout=compact&theme=tokyonight)
+
+## ✨ Let's Connect!
+Feel free to connect, collaborate, or just say hi!  
+📩 **Email:** [saini56@uwindsor.ca](mailto:saini56@uwindsor.ca)  
+🌐 **Portfolio:** [Visit my website](https://personalportfolio-two-mocha.vercel.app/)
+
+---
+
+⭐️ _Fun Fact:_ Recruiters love a well-maintained GitHub profile! Keep pinning your best projects.
+
