@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Kanishk1604/Kanishk1604/blob/main/assets/banner.gif" alt="banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Kanishk Saini
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Kanishk1604&label=Profile%20views&color=0e75b6&style=flat)
