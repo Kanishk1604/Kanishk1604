@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kanishk1604/Kanishk1604/blob/main/chandler-laptop.gif" alt="banner" width="100%" />
+  <img src="https://github.com/Kanishk1604/Kanishk1604/blob/main/chandler-laptop.gif" alt="banner" width="50%" />
 </p>
 
 # 👋 Hi, I'm Kanishk Saini
