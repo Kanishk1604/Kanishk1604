@@ -32,9 +32,10 @@
 - 🤖 Advanced algorithms & data structures
 
 ## 📈 GitHub Stats
-![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanishk1604&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishk1604&layout=compact&theme=tokyonight)
+![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanishk1604&show_icons=true&theme=gradient&count_private=true&hide_rank=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishk1604&layout=compact&theme=gradient)
 
 ## ✨ Let's Connect!
 Feel free to connect, collaborate, or just say hi!  
