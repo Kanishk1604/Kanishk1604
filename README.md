@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Kanishk Saini
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=Kanishk1604&label=Profile%20views&color=0e75b6&style=flat)
+
 🚀 **Computer Science graduate** with a passion for building scalable systems and web applications.  
 💻 Proficient in **Python**, **C++**, **React.js**, **JavaScript**, and **Graph Theory**.
 
