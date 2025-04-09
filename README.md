@@ -46,7 +46,5 @@ Feel free to connect, collaborate, or just say hi!
 📩 **Email:** [saini56@uwindsor.ca](mailto:saini56@uwindsor.ca)  
 🌐 **Portfolio:** [Visit my website](https://personalportfolio-two-mocha.vercel.app/)
 
----
 
-⭐️ _Fun Fact:_ Recruiters love a well-maintained GitHub profile! Keep pinning your best projects.
 
