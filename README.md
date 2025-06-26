@@ -35,11 +35,6 @@
 - ☁️ Google Cloud Platform
 - 🤖 Advanced algorithms & data structures
 
-## 📈 GitHub Stats
-
-![Kanishk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanishk1604&show_icons=true&theme=gradient&count_private=true&hide_rank=false&cache_seconds=0)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishk1604&layout=compact&theme=gradient&cache_seconds=0)
 
 
 ## ✨ Let's Connect!
