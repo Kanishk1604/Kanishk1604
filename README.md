@@ -2,7 +2,7 @@
   <img src="https://github.com/Kanishk1604/Kanishk1604/blob/main/chandler-laptop.gif" alt="banner" width="80%" />
 </p>
 
-#Hi, I'm Kanishk Saini
+Hi, I'm Kanishk Saini
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Kanishk1604&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -15,12 +15,12 @@ Proficient in **Python**, **C++**, **React.js**, **JavaScript**, and **Graph The
 
 ---
 
-##What I'm Working On
+What I'm Working On
 - **AI-powered multilingual chatbot** using Twilio & Google Calendar API
   **Universal Code Translator** supporting Python, C++, and Java
 - Scaling web apps with **React.js** and **Next.js**
 
-##Tech Stack
+Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
@@ -30,7 +30,7 @@ Proficient in **Python**, **C++**, **React.js**, **JavaScript**, and **Graph The
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
-##Currently Learning
+Currently Learning
 - System Design for scalable services
 - Google Cloud Platform
 - Advanced algorithms & data structures
