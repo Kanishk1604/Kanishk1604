@@ -6,7 +6,7 @@ Hi, I'm Kanishk Saini
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Kanishk1604&label=Profile%20views&color=0e75b6&style=flat)
 
-**Software engineer** with a passion for building scalable systems and web applications.  
+**Software engineer** with a passion for building scalable systems and developing backend-heavy environments.  
 Proficient in **Python**, **C++**, **React.js**, **JavaScript**, and **Graph Theory**.
 
 Currently working at Mercor as a Software Engineer in the Claude debugging and testing team for the upcoming newer models.
