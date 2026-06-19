@@ -13,7 +13,7 @@ Currently working at Mercor as a Software Engineer in the Claude debugging and t
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kanishk-saini-/)](https://www.linkedin.com/in/kanishk-saini-/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=flat-square&logo=google-chrome&logoColor=white&link=https://personalportfolio-two-mocha.vercel.app/)](https://personalportfolio-two-mocha.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Email-saini56@uwindsor.ca-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kanishksaini1604@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-kanishksaini1604@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:kanishksaini1604@gmail.com)
 
 ---
 
