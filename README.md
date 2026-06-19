@@ -17,7 +17,7 @@ Currently working at Mercor as a Software Engineer in the Claude debugging and t
 
 ---
 
-What I'm Working On
+What I'm Working On the Side
 - An advanced agent that reviews a real GitHub repo, detects bugs, writes patches, runs tests, and explains whether the fix is safe.
 
 Tech Stack
